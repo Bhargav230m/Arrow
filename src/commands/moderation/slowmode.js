@@ -68,7 +68,7 @@ module.exports = {
       : `Slow mode has been enabled with a rate of ${ms(rate, { long: true })}`;
     const response = new EmbedBuilder()
       .setTitle("🐌 Slow mode 🐌")
-      .setColor("BLURPLE")
+      .setColor("Random")
       .setDescription(
         `${description}. **Reason:** ${reason}.\nCommand made by KevinFoged **Credits to KevinFoged**`
       )
