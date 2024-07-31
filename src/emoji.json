@@ -1,0 +1,12 @@
+{
+  "messageConfig": {
+    "globalEmojis": {
+      "cross": "❌",
+      "tick": "✔",
+      "generating": "🌟",
+      "loading": "🔃",
+      "warning": "⚠️",
+      "security": "🔐"
+    }
+  }
+}
